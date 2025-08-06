@@ -1,0 +1,30 @@
+| CustomerID | Name    | Gender | Age | MaritalStatus | Education   | AnnualIncome | SpendingScore | CustomerSegment  |
+|------------|---------|--------|-----|---------------|-------------|--------------|---------------|------------------|
+| CUST1015   | Charlie | Male   | 50  | Single        | Master      | 70000        | 53            | Need-Based       |
+| CUST1015   | Charlie | Male   | 50  | Single        | Master      | 70000        | 53            | Need-Based       |
+| CUST1026   | Rose    | Female | 30  | Widowed       | High School | 50000        | 45            | Loyal            |
+| CUST1008   | Sophia  | Female | 25  | Single        | Master      | 30000        | 54            | Need-Based       |
+| CUST1009   | Karen   | Female | 50  | Married       | Master      | 50000        | 31            | Need-Based       |
+| CUST1019   | Leo     | Female | 45  | Widowed       | Bachelor    | 60000        | 79            | Discount Shopper |
+| CUST1021   | Grace   | Male   | 25  | Married       | High School | 50000        | 10            | Need-Based       |
+| CUST1012   | Wendy   | Female | 35  | Married       | Master      | 60000        | 82            | Loyal            |
+| CUST1000   | Xander  | Male   | 50  | Single        | PhD         | 50000        | 90            | Loyal            |
+| CUST1004   | Quincy  | Female | 45  | Divorced      | Master      | 20000        | 89            | Impulse Buyer    |
+| CUST1016   | Wendy   | Male   | 25  | Widowed       | Master      | 40000        | 86            | Loyal            |
+| CUST1005   | Liam    | Male   | 35  | Single        | PhD         | 50000        | 33            | Impulse Buyer    |
+| CUST1013   | Noah    | Male   | 35  | Married       | Master      | 70000        | 11            | Impulse Buyer    |
+| CUST1011   | Paul    | Male   | 45  | Married       | PhD         | 30000        | 39            | Discount Shopper |
+| CUST1024   | David   | Female | 30  | Married       | Bachelor    | 50000        | 1             | Loyal            |
+| CUST1029   | Uma     | Male   | 30  | Widowed       | Bachelor    | 40000        | 52            | Loyal            |
+| CUST1003   | Xander  | Female | 25  | Married       | Master      | 40000        | 18            | Impulse Buyer    |
+| CUST1027   | Frank   | Male   | 40  | Divorced      | High School | 70000        | 18            | Impulse Buyer    |
+| CUST1023   | Grace   | Female | 50  | Single        | Bachelor    | 80000        | 78            | Impulse Buyer    |
+| CUST1027   | Frank   | Male   | 40  | Divorced      | High School | 70000        | 18            | Impulse Buyer    |
+| CUST1022   | Hannah  | Male   | 40  | Married       | Master      | 40000        | 76            | Impulse Buyer    |
+| CUST1025   | Xander  | Male   | 25  | Widowed       | Master      | 50000        | 9             | Discount Shopper |
+| CUST1020   | Yara    | Male   | 25  | Divorced      | Bachelor    | 40000        | 100           | Impulse Buyer    |
+| CUST1023   | Grace   | Female | 50  | Single        | Bachelor    | 80000        | 78            | Impulse Buyer    |
+| CUST1007   | Hannah  | Female | 25  | Married       | Bachelor    | 70000        | 92            | Discount Shopper |
+| CUST1010   | Tina    | Male   | 45  | Single        | Bachelor    | 20000        | 49            | Impulse Buyer    |
+| CUST1014   | Uma     | Female | 25  | Married       | Master      | 30000        | 75            | Impulse Buyer    |
+| CUST1028   | Xander  | Female | 35  | Married       | PhD         | 20000        | 42            | Impulse Buyer    |
